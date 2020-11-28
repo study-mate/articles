@@ -1,37 +1,184 @@
+
 [
-
 {
-
-		"Year":"Year: 2019-AW",
-
-	"Credits":"Credits: SGBAU",
-
-	"Link":"https://www.sgbaukrc.ac.in/2018-papers/winter/BA/Journalism-and-Mass-Communication/Sem-I-Communicative-English-I.pdf"
-
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
 },
-
 {
-
-	
-
-	"Year":"Year: 2018-AV",
-
-	"Credits":"Credits: SGBAU",
-
-	"Link":"1"
-
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
 },
-
 {
-
-	
-
-	"Year":"2017-AT",
-
-	"Credits":"SGBAU",
-
-	"Link":"1"
-
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
+},
+{
+	"date":"Date:",
+	"title":"Title:",
+	"article":" Lorem Ipsum sat amet",
+	"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Studying_Person.jpg"
 }
 
 ]
