@@ -1,6 +1,6 @@
 [
 {
-   "date": " ",
+   "date": "1",
    "title":"Exam Preparation: Ten Study Tips",
    "article":" ",
    "imageUrl":"https://www.topuniversities.com/sites/default/files/articles/lead-images/10_exam_preparation_tips.jpg",
@@ -8,7 +8,7 @@
    "readingTime":" "
 },
 {
-   "date": " ",
+   "date": "2",
    "title":"The 10 Worst Resume Mistakes to Avoid",
    "article":" ",
    "imageUrl":"https://coda.newjobs.com/api/imagesproxy/ms/cms/content30/images/10-res-mistakes.png",
@@ -16,11 +16,59 @@
    "readingTime":" "
 },
 {
-   "date": " ",
+   "date": "3",
    "title":"14 Career Advice Tips for College Students",
    "article":" ",
    "imageUrl":"https://dorothydalton.com/wp-content/uploads/2016/08/career-advice-2-750x579.jpg",
    "webUrl":"https://www.indeed.com/career-advice/career-development/career-advice-for-college-students",
+   "readingTime":" "
+},
+{
+   "date": "4",
+   "title":"10 Practical Online Jobs for Students in India",
+   "article":" ",
+   "imageUrl":"https://www.cheggindia.com/wp-content/uploads/2021/02/EO10055_featured.jpg",
+   "webUrl":"https://www.cheggindia.com/earn-online/practical-online-jobs-for-students-in-india/",
+   "readingTime":" "
+},
+{
+   "date": "5",
+   "title":"Importance of Skill Development in Students for Career",
+   "article":" ",
+   "imageUrl":"https://www.campuscareerclub.com/wp-content/uploads/2019/06/Importance-of-Skill-Development-in-Students.jpg",
+   "webUrl":"https://www.campuscareerclub.com/importance-of-skill-development-in-students/",
+   "readingTime":" "
+},
+{
+   "date": "6",
+   "title":"Tips to prepare for GATE",
+   "article":" ",
+   "imageUrl":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190528184322/GATE2.png",
+   "webUrl":"https://www.geeksforgeeks.org/tips-to-prepare-for-gate/",
+   "readingTime":" "
+},
+{
+   "date": "7",
+   "title":"Top 10 Highest Paying Jobs in India 2021",
+   "article":" ",
+   "imageUrl":"https://www.upgrad.com/blog/wp-content/uploads/2020/01/Highest-Paid-Jobs-in-India.png",
+   "webUrl":"https://www.upgrad.com/blog/top-10-highest-paying-jobs-in-india/",
+   "readingTime":" "
+},
+{
+   "date": "8",
+   "title":"How to Prepare for CAT 2021: Get Best Books, Study Material & Preparation Tips",
+   "article":" ",
+   "imageUrl":"https://cache.careers360.mobi/media/presets/860X430/presets/860X430/article_images/2019/7/24/CAT-Preparation-2019.jpg",
+   "webUrl":"https://bschool.careers360.com/articles/how-prepare-for-cat",
+   "readingTime":" "
+},
+{
+   "date": "9",
+   "title":"How to start IAS/UPSC EXAM Preparation",
+   "article":" ",
+   "imageUrl":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/glasses-272399_1280_1_1200x768.jpeg?uovuIWzivllbrSKYu9g12Y2UeJFIloNs&size=770:433",
+   "webUrl":"https://chahalacademy.com/tips-how-to-start-upsc-preparation",
    "readingTime":" "
 }
 ]
